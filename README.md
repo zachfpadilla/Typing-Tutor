@@ -1,16 +1,15 @@
 
-# TYPING TUTOR - FINAL PROJECT
+# Typing Tutor
 
-## Name: <ins> ZACHARY PADILLA </ins>
+### - x86 Assembly Final Project -
+This was my Assembly final project for the Spring of 2024. The goal is to type words out in order to clear them, and you must do so before they reach the bottom of the screen; else you lose. It was definitely an interesting challenge, especially when it came to managing the words on screen, when/where they can appear, how to tell what the user is typing, etc. My only regret with this project was how overzealous I was with macros & structs, as they really weren't necessary a lot of the time and resulted in my program being longer than it probably could have. Regardless, it was still fun to figure out.
 
-## Showcase:
+## Showcase
 
 ![ezgif-4-bbeee3467d](https://github.com/barkeshli-CS066-classroom/99-final-project-typing-tutor-zachfpadilla/assets/73139549/28320ce9-4712-4fcf-b41b-a092743e009e)
 
 
-<br><br>
-
-## FULL PRESENTATION VIDEO:
+## Video
 
 https://github.com/barkeshli-CS066-classroom/99-final-project-typing-tutor-zachfpadilla/assets/73139549/ecd52265-f2d8-4817-971c-52f31e4e4aae
 
@@ -20,7 +19,7 @@ https://github.com/barkeshli-CS066-classroom/99-final-project-typing-tutor-zachf
     
 <br><br>
 
-## LIST OF FUNCTIONS:
+## List of Functions
 ```
 randomWord PROC 
     ; purpose: stores a random string from the word bank into edx
